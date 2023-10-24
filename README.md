@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke Courtney</h1>
 <h3 align="center">Games Design and Development Student</h3> 
 
-- 🔭 I’m currently working on **a Games Design and Development Bachelors degree**
+- 🔭 I’m currently working on **a Games Design and Development Bachelors degree at TúS**
 
 - 🌱 I’m currently learning **Unity, SFML and Python**
 
