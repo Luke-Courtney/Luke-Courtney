@@ -2,11 +2,7 @@
 <h3 align="center">Games Design and Development Student</h3> 
 
 - 🔭 I’m currently working on **a Games Design and Development Bachelors degree at TúS**
-
-- 🌱 I’m currently learning **Unity, SFML and Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Luke-Courtney](https://github.com/Luke-Courtney)
-
+  
 - 📫 How to reach me **luke.courtney78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
